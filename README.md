@@ -1,3 +1,3 @@
-CSS challenges given by Hitesh sir
+CSS challenges are given by Hitesh sir
 
 ![thumbnail](./thumbnail.png)
